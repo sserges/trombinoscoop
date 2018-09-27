@@ -4,3 +4,5 @@
 .settings
 *.sqlite3
 *.pyc
+production.py
+staticfiles
