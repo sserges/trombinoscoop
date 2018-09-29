@@ -27,3 +27,4 @@ sentry_sdk.init(
     integrations=[DjangoIntegration()]
 )
 
+INSTALLED_APPS += ['django_extensions',]
